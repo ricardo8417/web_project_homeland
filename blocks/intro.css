@@ -39,7 +39,7 @@
   line-height: 163%;
 }
 
-@media (min-width: 768px) and (max-width: 1280px) {
+@media screen and (max-width: 768px) {
   .intro {
     width: 720px;
     margin-left: 24px;
@@ -70,7 +70,7 @@
   }
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .intro {
     width: 288px;
     margin-left: 16px;

@@ -28,7 +28,7 @@
   margin-top: 79px;
 }
 
-@media (min-width: 768px) and (max-width: 1280px) {
+@media screen and (max-width: 768px) {
   .lead__title {
     width: 530px;
     height: 140px;
@@ -47,7 +47,7 @@
     margin-top: 48px;
   }
 }
-@media (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .lead__title {
     width: 220px;
     height: 88px;
