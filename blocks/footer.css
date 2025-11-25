@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 92px;
+}
+.footer__text {
+  font-family: "Inter";
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
+@media (min-width: 320px) and (max-width: 768px) {
+  .footer {
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
