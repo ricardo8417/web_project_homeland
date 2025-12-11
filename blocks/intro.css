@@ -20,15 +20,12 @@
   line-height: 34px;
 }
 .intro__footer {
-  position: absolute;
-  bottom: 31.99px;
-  right: 400px;
-  top: 1730px;
   margin-top: 10px;
   font-size: 24px;
   font-family: "Inter";
   font-weight: 400;
   line-height: 34px;
+  text-align: right;
 }
 .intro__text {
   margin-top: 32px;
